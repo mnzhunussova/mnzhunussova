@@ -1,6 +1,6 @@
 Hi, I'm Aigerim Zhunussova 👋
 
-🎓 PhD student in Intelligent Control Systems  
+🎓 ASU student in Data Science 
 💻 Junior Data Analyst with hands-on experience in Python, SQL, and Excel  
 🌍 Looking for *remote roles* in data analytics / ETL / dashboard reporting  
 📍 Based in Kazakhstan — working globally
